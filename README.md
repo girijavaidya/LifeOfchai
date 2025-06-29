@@ -11,4 +11,4 @@ Secure user authentication
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript, Bootstrap
 Backend: PHP, MySQL
-Database: MySQL (phpMyAdmin)
+Database: MySQL 
